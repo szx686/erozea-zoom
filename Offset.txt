@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Root>
+  <DX9>
+    <StructureAddress>2052DC0</StructureAddress>
+    <ZoomCurrent>F8</ZoomCurrent>
+    <ZoomMax>100</ZoomMax>
+    <FovCurrent>104</FovCurrent>
+    <FovMax>10C</FovMax>
+  </DX9>
+  <DX11>
+    <StructureAddress>2052DC0</StructureAddress>
+    <ZoomCurrent>114</ZoomCurrent>
+    <ZoomMax>11C</ZoomMax>
+    <FovCurrent>120</FovCurrent>
+    <FovMax>128</FovMax>
+  </DX11>
+  <LastUpdate>2022-3-16 - 6.0 -千万别点检查更新，欧内该</LastUpdate>
+  <Version>2022.12.20.0000.0000</Version>
+  <AutoApply>True</AutoApply>
+  <DesiredZoom>20</DesiredZoom>
+  <DesiredFov>0.78</DesiredFov>
+  <OffsetUpdateLocation></OffsetUpdateLocation>
+</Root>
