@@ -19,5 +19,5 @@
   <AutoApply>True</AutoApply>
   <DesiredZoom>20</DesiredZoom>
   <DesiredFov>0.78</DesiredFov>
-  <OffsetUpdateLocation></OffsetUpdateLocation>
+  <OffsetUpdateLocation>https://raw.githubusercontent.com/szx686/erozea-zoom/main/Offset.txt</OffsetUpdateLocation>
 </Root>
